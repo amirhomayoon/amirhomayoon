@@ -5,7 +5,7 @@
 Resume:  [Amirhomayoon Ebrahimi Resume](https://amirhomayoon.github.io/)
  
 - 🔭 I'm currently working on Big Idea
-- 🌱 I'm currently learning React-Native
+- 🌱 I'm currently learning Vue.js
  
  <!--
 🌱 *Currently Learning*: React-Native and Ruby<br>
