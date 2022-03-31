@@ -6,6 +6,4 @@ Resume:  [Amirhomayoon Ebrahimi Resume](https://amirhomayoon.github.io/)
  
 - 🔭 I'm currently working on Big Idea
 - 🌱 I'm currently learning Vue.js
-
-<br/>
- ![Amirhomayoon's github stats](https://github-readme-stats.vercel.app/api?username=amirhomayoon)
+![Amirhomayoon's github stats](https://github-readme-stats.vercel.app/api?username=amirhomayoon)
